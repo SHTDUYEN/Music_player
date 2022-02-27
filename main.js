@@ -6,8 +6,9 @@ const PLAYER_STORAGE_KEY = 'MY_PLAYER'
 const player = $('.player')
 const heading = $('header h2');
 const cdThumb = $('.cd-thumb');
-const audio = $('#audio');
+const audio = $('#audio');   
 const cd = $('.cd');
+// hhh
 
 const playBtn = $('.btn-toggle-play')
 
